@@ -35,6 +35,14 @@ img {
   height: 100px;
 }
 
+.paragraphOne p {
+  padding: 0;
+}
+
+.paragraphTwo p {
+  padding: 0;
+}
+
 .centeredParagraph {
   text-align: center;
 }
